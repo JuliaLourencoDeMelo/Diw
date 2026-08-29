@@ -20,4 +20,4 @@ Print da página exibida no navegador:
 
 Print da página exibida no navegador:
 
-![Curriculo HTML](images/curriculohtml.png)
+![Curriculo](images/curriculo.png)
