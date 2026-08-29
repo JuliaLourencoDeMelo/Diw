@@ -15,3 +15,9 @@ Print da inspeção de rede:
 Print da página exibida no navegador:
 
 ![Página HTML](images/pagina-html.png)
+
+## Curriculo HTML (index)
+
+Print da página exibida no navegador:
+
+![Curriculo HTML](images/curriculohtml.png)
